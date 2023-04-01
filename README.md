@@ -1,6 +1,6 @@
 # Animated Web App - ReactJS and SCSS
 
-This is a [web project](https://animated-website-553a4.web.app/) with animation effects developed with ReactJS and deployed with Heroku. The animations were created using **HTML** and **SCSS**, with no external packages.
+This is a [web project](https://animated-website-553a4.web.app/) with animation effects developed with ReactJS and deployed with Firebase. The animations were created using **HTML** and **SCSS**, with no external packages.
 
 Link - [https://animated-website-553a4.web.app](https://animated-website-553a4.web.app/)
 
@@ -18,6 +18,7 @@ The Animated Web App is a project designed to showcase animation effects on a we
 
 - ReactJS
 - SCSS
+- Firebase
 
 ## Prerequisites
 
